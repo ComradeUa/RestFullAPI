@@ -1,4 +1,4 @@
-# # About project
+#About project
 It's RestFullAPI. I wrote on JS and used framework Express and also i used MySQL DataBase.
 The user registers and gets the opportunity to link to the advertisement for the sale of goods.
 Main functionality:
